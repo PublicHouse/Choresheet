@@ -1,12 +1,13 @@
 {
   "name": "chores",
-  "description": "",
+  "description": "Webapp for managing household chores.",
   "version": "0.0.0",
   "main": "./server.js",
   "dependencies": {
     "derby": "*",
     "express": "3.0.0beta4",
-    "gzippo": ">=0.1.7"
+    "gzippo": ">=0.1.7",
+    "racer-db-mongo": "*"
   },
   "private": true
 }
